@@ -1,0 +1,72 @@
+Machine Learning (ML) is a branch of Artificial Intelligence where computers learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+Instead of writing rules manually, we train models using data.
+
+🧠 Simple Definition
+
+Machine Learning is the science of teaching computers to learn from data.
+
+For example:
+
+Spam email detection
+
+Movie recommendations
+
+Face recognition
+
+Stock price prediction
+
+🚀 Why ML is Popular
+
+📊 Handles large amounts of data
+
+🤖 Powers AI applications
+
+💼 High industry demand
+
+💰 Strong career opportunities
+
+🌍 Used in almost every industry
+
+📚 Types of Machine Learning
+1️⃣ Supervised Learning
+
+Learns from labeled data
+
+Example: Email marked as spam/not spam
+
+Algorithms:
+
+Linear Regression
+
+Logistic Regression
+
+Decision Trees
+
+2️⃣ Unsupervised Learning
+
+No labeled data
+
+Finds hidden patterns
+
+Example:
+
+Customer segmentation
+
+Algorithms:
+
+K-Means Clustering
+
+PCA
+
+3️⃣ Reinforcement Learning
+
+Learns by trial and error
+
+Used in robotics and games
+
+Example:
+
+Self-driving cars
+
+Game-playing AI
